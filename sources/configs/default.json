@@ -1,0 +1,18 @@
+{
+    "name": "metaload",
+    "version": "0.0.1",
+    "release": "alpha",
+    "codename": "infinity",
+    "github": "https://github.com/MetaNexuz/metaload",
+    "website": "https://metanexuz.blackzspace.de",
+    "encryptions": {
+        "tls": true,
+        "ssl": true
+    },
+    "connection_types": {
+        "http": true,
+        "https": true,
+        "ftp": true,
+        "sftp": true
+    }
+}
