@@ -1,0 +1,6 @@
+.env
+venv
+dist
+build
+twine
+__pycache__
